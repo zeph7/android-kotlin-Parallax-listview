@@ -13,11 +13,11 @@ You need to follow the following steps as described below to create the list vie
 
 The output of this example in the following attached video :
 
-## YouTube [demo :](https://www.youtube.com/watch?v=eyWDkwVnYxo)
+## YouTube [demo](https://www.youtube.com/watch?v=eyWDkwVnYxo)
 
 [![TITLE](https://img.youtube.com/vi/eyWDkwVnYxo/0.jpg)](https://www.youtube.com/watch?v=eyWDkwVnYxo)
 
-## Screenshots :
+# Screenshots:
 
 <div style="display:flex;">
 <img alt="App image" src="screenshots/img1.jpg" width="30%" hspace="10">
@@ -201,7 +201,7 @@ class  ParallexActivity : AppCompatActivity() {
 }
 ```
 
-# Licence
+# License
 
-Licenced under the [MIT Licence](https://github.com/ashish7zeph/android-kotlin-Parallax-listview/blob/master/LICENSE)
+Licensed under the [MIT License](https://github.com/ashish7zeph/android-kotlin-Parallax-listview/blob/master/LICENSE)
 
