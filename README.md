@@ -13,21 +13,17 @@ You need to follow the following steps as described below to create the list vie
 
 The output of this example in the following attached video :
 
-<p><iframe width="900" height="675" src="https://www.youtube.com/embed/eyWDkwVnYxo?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+## YouTube [demo :](https://www.youtube.com/watch?v=eyWDkwVnYxo)
 
-fffff
+[![TITLE](https://img.youtube.com/vi/eyWDkwVnYxo/0.jpg)](https://www.youtube.com/watch?v=eyWDkwVnYxo)
 
-[](https://www.youtube.com/watch?v=eyWDkwVnYxo)
+## Screenshots :
 
-gggg
-
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=eyWDkwVnYxo" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=eyWDkwVnYxo"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+<div style="display:flex;">
+<img alt="App image" src="screenshots/img1.jpg" width="30%" hspace="10">
+<img alt="App image" src="screenshots/img2.jpg" width="30%" hspace="10">
+<img alt="App image" src="screenshots/img3.jpg" width="30%" hspace="10">
+</div>
 
 ## 1. Declare Activity Layout
 
@@ -207,5 +203,5 @@ class  ParallexActivity : AppCompatActivity() {
 
 # Licence
 
-Licenced under MIT Licence
+Licenced under the [MIT Licence](https://github.com/ashish7zeph/android-kotlin-Parallax-listview/blob/master/LICENSE)
 
