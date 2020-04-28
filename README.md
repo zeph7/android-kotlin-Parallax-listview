@@ -2,7 +2,7 @@
 
 Build a ListView Parallax Effect With a Sticky Header in Android 
 
-A quick Android example with code snippet to demonstrate `ListView` parallax effect with sticky header. In our previous tutorial, we saw `Creating ListView Header Parallax Animation`, now in this example we will go little further and make the list header parallax animation with an view stick to top when list is scrolled.
+A quick Android example with code snippet to demonstrate `ListView` parallax effect with sticky header. In this example we will make the list header parallax animation with an view stick to top when list is scrolled.
 
 You need to follow the following steps as described below to create the list view parallax effect :
 
